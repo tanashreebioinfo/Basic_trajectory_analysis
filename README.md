@@ -4,3 +4,6 @@ Python codes baisc trajectory analysis
 2.Polar_plot.py
 
 For heatmap analysis use try.txt as input file which is 3 column data file.
+
+
+rdf_local_global_min_max-finder.py  script finds the first maxima and all local minima and maxima of given density plot(RDF)
