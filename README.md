@@ -11,4 +11,4 @@ rdf_local_global_min_max-finder.py  script finds the first maxima and all local 
 
 bar_plot.py : provinding the mean and sd values it plots the joint bar plot
 
-stacked_nested_barplots.py : sample input lpd_dna_sod.txt , lpd_dn_cla.txt
+stacked_nested_bar_plot.py : sample input lpd_dna_sod.txt , lpd_dn_cla.txt
